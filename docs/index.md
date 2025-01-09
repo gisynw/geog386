@@ -1,4 +1,4 @@
-# Welcome to SSJ 302 Python Programming & SSJ 30274 Computer PROG for GIS
+# Welcome to GEOG 286 & 386 Python Programming for GIS
 
 Hi there! Welcome to my GitHub repository, where I share teaching material. I'm excited to have you here!
 
