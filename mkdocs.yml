@@ -1,5 +1,5 @@
-site_name: Yanan Wu Teaching geog386
-site_description: Yanan Wu Teaching geog386
+site_name: Yanan Wu Teaching geog 286&386
+site_description: Yanan Wu Teaching geog 286&386
 site_author: Yanan Wu
 site_url: https://gisynw.github.io/geog386/
 copyright: "Copyright &copy; 2024 - 2025 Yanan Wu"
@@ -92,7 +92,7 @@ plugins:
 nav:
     - Home: index.md
     - Syllabus:
-      - Syllabus Fall 2024: "Content/Spring2025_syllabus.ipynb"
+      - Syllabus Spring 2025: "Content/Spring2025_syllabus.ipynb"
     - Softwares:
       - Visual Studio Code: "software/Visual-Studio-Code.ipynb"
       - ArcGIS Pro: "software/ArcGISPro.ipynb"
