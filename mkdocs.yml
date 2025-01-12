@@ -96,6 +96,7 @@ nav:
     - Softwares:
       - Visual Studio Code: "software/Visual-Studio-Code.ipynb"
       - ArcGIS Pro: "software/ArcGISPro.ipynb"
+      - Anaconda: "software/Anaconda.ipynb"
     - Lectures:
       - Week 1 Introdyction: "Lectures/Week01/Week01Intro_Lecture.ipynb"
       - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
