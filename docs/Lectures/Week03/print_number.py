@@ -6,5 +6,5 @@ def numbers():
         else:
             break
         
-if __name__ == "__main__":
-    numbers()
+# if __name__ == "__main__":
+#     numbers()
